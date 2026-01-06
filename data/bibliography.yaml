@@ -1,0 +1,257 @@
+EmphasizeName:
+  Style: EmphasizeName
+  Items:
+    - 古池謙人
+    - Koike, K.
+
+20Awards:
+  Style: AwardList
+  NameJa: 受賞
+  NameEn: Awards
+  Title: Awards
+  Items:
+    - "第50回教育システム情報学会全国大会 全国大会奨励賞, (2025.09) (古池謙人, 油谷知岐, 芦田淳, 森田海, & 久乗皓大: なぜ計算論的認知スキーマが今必要なのか？－システム設計意図の整合性評価・比較・共有に向けて－, 教育システム情報学会全国大会講演論文集, pp. 315-316, (2025))"
+    - "2023年度 人工知能学会 先進的学習科学と工学（ALST）研究会 若手奨励賞, (2024.04) (相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 林健彦, 今井功, 堀口知也, 平嶋宗: EBSにおける力の因果関係に基づく補助問題自動生成システムの授業実践の結果の分析, 人工知能学会第100回先進的学習科学と工学研究会, pp. 30-35, (2024))"
+    - "Best Technical Design Paper Award Nominee, ICCE2023, APSCE (Asia-Pacific Society for Computers in Education) (Kano, T., Horikoshi, I., Koike, K. and Ogata, H.: Data-Driven Competency Assessment Supporting System for Teachers, Proceedings of the International Conference on Computers in Education ICCE 2023, pp.926-935, (2023))"
+    - "2021年度 人工知能学会 先進的学習科学と工学（ALST）研究会 若手奨励賞, (2022.04) (相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationを対象にした因果推論理論に基づく自動的な補助問題生成法の検討, 人工知能学会第92回先進的学習科学と工学研究会, pp. 6-11, (2021))"
+    - "2021年度 電子情報通信学会 教育工学研究会 研究奨励賞, (2021.12) (古池謙人, 樋村いづみ, 東本崇仁: 誤りの可視化を重視したTeachable Agentモデリング手法の提案, 電子情報通信学会技術研究報告(ET), Vol. 121, No. 294, pp. 57-62, (2021))"
+    - 第32回教育・学習支援システム若手の会 最優秀奨励賞, (2021.10)
+    - 2019年度 東京工芸大学 杉浦六右衛門賞 受賞, (2020.03)
+    - 2017年度 東京工芸大学 工学部同窓会長賞 受賞, (2018.03)
+
+30Refereed:
+  Style: PublicationList
+  NameJa: 査読付き論文
+  NameEn: Refereed Papers
+  Title: Refereed Papers
+  Sections:
+    - NameJa: 原著論文
+      NameEn: Journal Papers
+      Title: Refereed Journal Papers
+      DetailCount: True
+      Items:
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2026). 「より良いコード」への試行錯誤を促すゲームタスク型仮想ロボットプログラミングの提案と授業実践. 電子情報通信学会論文誌 D, accepted."
+        - "Kano, T., Horikoshi, I., Koike, K., & Ogata, H. (2026). YINSIGHT: Supporting Data-Informed Competency Assessment with Customizable Indicators in a Self-Regulated Learning Context. Research and Practice in Technology Enhanced Learning, accepted."
+        - "Okumura, K., Nishioka, K., Koike, K., Horikoshi, I., & Ogata, H. (2026). Causal Discovery for Automated Real-World Educational Evidence Extraction. Research and Practice in Technology Enhanced Learning, 21, Article 20."
+        - "Takii, K., Flanagan, B., Li, H., Yang, Y., Koike, K., & Ogata, H. (2025). Explainable eBook Recommendation for Extensive Reading in K-12 EFL Learning. Research and Practice in Technology Enhanced Learning, 20, Article 27."
+        - "Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., & Hirashima, T. (2024). Classroom Implementation of an Auxiliary Problem Presentation System for Mechanics Adapted to Learners’ Errors. Research and Practice in Technology Enhanced Learning, 19, Article 26."
+        - "相川野々香, 古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2023). 力学を対象としたError-based Simulationにおける行き詰まりの解消を指向した補助問題の提示システム. 電子情報通信学会論文誌 D, J106-D(2), 132–143."
+        - "相川野々香, 齊藤寛, 古池謙人, & 東本崇仁. (2023). 力学における学習者の誤りに基づいた問題提示(Error-based Problem Posing)システムの開発. 電子情報通信学会論文誌 D, J106-D(2), 144–155."
+        - "古池謙人, 樋村いづみ, & 東本崇仁. (2023). TAME: 誤りの可視化を重視したTeachable Agentの挙動制御手法. 電子情報通信学会論文誌 D, J106-D(2), 110–122."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2020). プログラミング学習における再利用性を指向した知識組織化のための知的支援—機能・振舞い・構造の観点に基づく問題解決過程のモデル—. 人工知能学会論文誌, 35(5), Article C-J82."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2019). プログラミングの構造的理解を指向した部品の段階的拡張手法の提案と支援システムの開発・評価. 教育システム情報学会誌, 36(3), 190–202."
+        - "Koike, K., Tsuji, Y., Tomoto, T., Katagami, D., Obo, T., Ogai, Y., Sone, J., & Udagawa, Y. (2019). Academic Emotions Affected by Robot Eye Color: An Investigation of Manipulability and Individual-Adaptability. International Journal of Advanced Computer Science and Applications, 10(4), 410–418."
+
+    - NameJa: レター論文
+      NameEn: Journal Letters
+      Title: Refereed Letters
+      DetailCount: True
+      Items:
+        - "古池謙人, 藤島優希, 東本崇仁, 堀口知也, & 平嶋宗. (2023). プログラミングの機能的階層構造の学習環境における習熟度を考慮した適応的フィードバック機能の評価. 教育システム情報学会誌, 40(3), 234–239."
+        - "前田新太郎, 茂木誠拓, 古池謙人, & 東本崇仁. (2023). 仮想ロボットプログラミングを用いたコード共有プラットフォームの開発と評価. 教育システム情報学会誌, 40(3), 240–245."
+        - "古池謙人, 久世泰成, & 東本崇仁. (2021). Error-based Simulationと概念マップを用いたメタ認知駆動学習を促すシステムの開発と評価. 電子情報通信学会論文誌 D, J104-D(6), 526–528."
+        - "相川野々香, 古池謙人, & 東本崇仁. (2020). Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム. 電子情報通信学会論文誌 D, J103-D(9), 644–647."
+        - "古池謙人 & 東本崇仁. (2018). プログラミングにおける構造的理解のための部品の段階的拡張手法の提案とそのシステムの開発. 教育システム情報学会誌, 35(2), 215–220."
+
+    - NameJa: 国際会議
+      NameEn: Conference Papers
+      Title: Refereed Conference Papers
+      DetailCount: True
+      Items:
+        - "Maeda, S., Koike, K., & Tomoto, T. (2025). Learning from Others’ Codes in Game-Based Robot Programming: Behavioral Patterns and Outcomes. Proceedings of the International Conference on Computers in Education ICCE 2025, 470–475."
+        - "Koike, K., Majumdar, R., Tomoto, T., Horiguchi, T., & Hirashima, T. (2025). Students’ Help-seeking Patterns in Subgoal Learning Environments for Programming. Proceedings of the International Conference on Learning Evidence and Analytics, 1–3."
+        - "Koike, K., Aburatani, T., Ashida, A., Morita, K., & Kunori, K. (2025). Are Cognitive Schemas Taught to Learners the Same Across Two Different Educational Systems? A Computational Approach. HCI International 2025, accepted."
+        - "Tokuda, Y., Koike, K., & Akakura, T. (2025). Development and Evaluation of VR Error-Based Simulation Incorporating Viewpoint Movement to Learn Complex Motion of Multiple Objects. HCI International 2025, 15774 LNCS, 303–316."
+        - "Minato, Y., Koike, K., & Akakura, T. (2025). Body Movement Analysis in Cell Culture: A Comparison of Experts and Beginners Using Inertial Motion Capture in the Japanese Pharmaceutical Context. HCI International 2025, 15774 LNCS, 61–73."
+        - "Pierret Robles, J. P., Aikawa, N., Koike, K., & Tomoto, T. (2025). A Learning Support System for Error Exploration in Physics Error-based Simulation (EBS). HCI International 2025, 15774 LNCS, 272–288."
+        - "Maeda, S., Koike, K., & Tomoto, T. (2024). Code-Sharing Platform in Programming Learning: A Proposal for a Strategy-Aware Code-Sharing Methodology. HCI International 2024, 14691 LNCS, 338–348."
+        - "Takii, K., Koike, K., Horikoshi, I., Flanagan, B., & Ogata, H. (2024). OKLM: A Universal Learner Model Integrating Everyday Learning Activities with Knowledge Maps. Companion Proceedings 14th International Conference on Learning Analytics & Knowledge (LAK24), 191–193."
+        - "Okumura, K., Horikoshi, I., Koike, K., & Ogata, H. (2023). Towards Automated Evidence Extraction: A Case of Adapting SAM from Real-World Educational Data. Proceedings of the International Conference on Computers in Education ICCE 2023, 463–471."
+        - "Kano, T., Horikoshi, I., Koike, K., & Ogata, H. (2023). Data-Driven Competency Assessment Supporting System for Teachers. Proceedings of the International Conference on Computers in Education ICCE 2023, 926–935."
+        - "Matsui, T., Maeda, S., Koike, K., & Tomoto, T. (2023). A Learning Support System for Programming that Promotes Understanding of Source Code Function Through Behavior Modeling. HCI International 2023, 14016 LNCS, 298–309."
+        - "Maeda, S., Koike, K., & Tomoto, T. (2023). Classroom Practice Using a Code-Sharing Platform to Encourage Refinement Activities. HCI International 2023, 14016 LNCS, 286–297."
+        - "Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., & Hirashima, T. (2023). Analysis of Classroom Test Results for an Error-Based Problem Presentation System for Mechanics. HCI International 2023, 14016 LNCS, 213–224."
+        - "Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., & Hirashima, T. (2022). Practical Use of an Error-based Problem Presentation System in Mechanics. Proceedings of the International Conference on Computers in Education ICCE 2022, 118–123."
+        - "Maeda, S., Koike, K., & Tomoto, T. (2022). A Knowledge Sharing Platform for Learning from Others’ Code. HCI International 2022, 13305 LNCS, 489–504."
+        - "Koike, K., Himura, I., & Tomoto, T. (2022). TAME: A Method of Teachable Agent Modeling for Error-Visualization. HCI International 2022, 13305 LNCS, 461–474."
+        - "Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., & Hirashima, T. (2022). Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System. HCI International 2022, 13305 LNCS, 437–450."
+        - "Mogi, T., Koike, K., Tomoto, T., Horiguchi, T., & Hirashima, T. (2021). Proposal of Learning Support System for Improving Skills in Inferring Background Knowledge in Conversation. HCI International 2021, 12766 LNCS, 104–114."
+        - "Koike, K., Fujishima, Y., Tomoto, T., Horiguchi, T., & Hirashima, T. (2021). Learner Model for Adaptive Scaffolding in Intelligent Tutoring Systems for Organizing Programming Knowledge. HCI International 2021, 12766 LNCS, 63–74."
+        - "Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., & Hirashima, T. (2021). Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation. HCI International 2021, 12766 LNCS, 3–13."
+        - "Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., & Hirashima, T. (2020). Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior. HCI International 2020, 12427 LNCS, 151–162."
+        - "Koike, K., Tomoto, T., Horiguchi, T., & Hirashima, T. (2018). Proposal of a Framework for a Stepwise Task Sequence in Programming. In S. Yamamoto & H. Mori (Eds.), HCI International 2018: Vol. 10905 LNCS (pp. 266–277). Springer International Publishing."
+
+    - NameJa: ワークショップ
+      NameEn: Workshop Papers
+      Title: Refereed Workshop Papers
+      DetailCount: True
+      Items:
+        - "Pierret Robles, J. P., Aikawa, N., Koike, K., & Tomoto, T. (2025). Scaffolding Causal Understanding Via Parameter Exploration in Newtonian Mechanics. Workshop Proceedings of the International Conference on Computers in Education ICCE 2025, 146–155."
+        - "Maeda, S., Koike, K., & Tomoto, T. (2024). Code Visualization System for Writing Better Code Through Trial and Error in Programming Learning: Classroom Implementation and Practice. Workshop Proceedings of the International Conference on Computers in Education ICCE 2024, 587–584."
+        - "Koike, K., Majumdar, R., Hoppe, H. U., & Ogata, H. (2023). Conceptual Design of WHALE: A Wise Helper Agent for the LEAF Environment. Workshop Proceedings of the International Conference on Computers in Education ICCE 2023, 204–209."
+        - "Aikawa, N., Koike, K., & Tomoto, T. (2020). Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations. Workshop Proceedings of the International Conference on Computers in Education ICCE 2020, 72–83."
+        - "Koike, K., Tomoto, T., Horiguchi, T., & Hirashima, T. (2019). Supporting Knowledge Organization for Reuse in Programming: Proposal of a System Based on Function–Behavior–Structure Models. Workshop Proceedings of the International Conference on Computers in Education ICCE 2019, 388–398."
+        - "Koike, K., Tomoto, T., Horiguchi, T., & Hirashima, T. (2018). Proposal of an Adaptive Programming-Learning Support System Utilizing Structuralized Tasks. Workshop Proceedings of the International Conference on Computers in Education ICCE 2018, 278–287."
+        - "Koike, K., Tomoto, T., & Hirashima, T. (2017). Proposal of a Stepwise Support for Structural Understanding in Programming. Workshop Proceedings of the International Conference on Computers in Education ICCE 2017, 471–481."
+
+40NonRefereed:
+  Style: PublicationList
+  NameJa: その他の研究業績
+  NameEn: Non-Refereed Papers
+  Title: Non-Refereed Papers
+  Sections:
+
+    - NameJa: 寄稿
+      NameEn: Contributions
+      Title: Contributions
+      DetailCount: True
+      Items:
+        - "古池謙人. (2025). 研究プロジェクト紹介 学びの支援対象とする知識やスキルの共通表現基盤の確立に向けて. 教育システム情報学会誌, 42(3), 354–355."
+        - "古池謙人. (2023). 博士論文紹介 情報構造指向アプローチに基づく知的学習支援システムの汎化を指向した多角的発展に関する研究. 教育システム情報学会誌, 40(3), 257."
+        - "古池謙人. (2022). 国際会議報告 23rd International Conference on Human-Computer Interaction (HCII2021). 教育システム情報学会誌, 39(2), 316–317."
+        - "古池謙人 & 布施陽太郎. (2021). 学生企画「観点に基づく研究のデザイン〜主観から客観へ〜」. 人工知能学会誌, 36(6), 744."
+        - "油谷知岐 & 古池謙人. (2020). 学生企画「各世代の AI 研究者に問う ―『善く生きる』の捉え方―」. 人工知能学会誌, 35(6), 803–804."
+
+    - NameJa: 研究会
+      NameEn: Domestic Technical Reports
+      Title: Domestic Technical Reports
+      DetailCount: True
+      Items:
+        - "横田裕之, 古池謙人, & 赤倉貴子. (2025). 学習管理システムにおけるAIチャットボットへの質問履歴を活用した適応的復習問題生成手法. 電子情報通信学会技術研究報告(ET), 125(279), 46–51."
+        - "内山裕太, 古池謙人, & 東本崇仁. (2025). 問題構造に基づく構造の部分的再利用を指向した学習支援システムの設計・提案. 人工知能学会第105回先進的学習科学と工学研究会, 42–46."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2025). 仮想ロボットプログラミングにおけるタスク実行戦略の類似性に基づく他者コード推薦機能の印象調査. 人工知能学会第105回先進的学習科学と工学研究会, 1–6."
+        - "徳田勇真, 古池謙人, & 赤倉貴子. (2025). VR-EBSシステムにおける視点移動と現実世界の物体投影による「もっともらしさ」の実現. 電子情報通信学会技術研究報告(ET), 125(232), 27–32."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2025). サブゴール学習における効果的な振る舞い可視化機能利用パターンのDSMによる調査. 人工知能学会第104回先進的学習科学と工学研究会, 17–22."
+        - "古池謙人, マジュンダールリトジット, 東本崇仁, 堀口知也, & 平嶋宗. (2025). プログラミングを対象としたサブゴール学習環境における援助要請行動パターン. 教育システム情報学会研究会研究報告= JSiSE Research Report, 40(1), 59–65."
+        - "古池謙人 & 東本崇仁. (2025). 非可観測概念の試行錯誤的学びを指向した誤りの可観測化フィードバック設計フレームワークELMERの提案. 人工知能学会第103回先進的学習科学と工学研究会, 57–62."
+        - "Jean Paul Pierret Robles, 相川野々香, 古池謙人, & 東本崇仁. (2025). 学習者の誤答に基づく誤りの可視化と誤り探索活動の支援環境の設計・開発. 人工知能学会第103回先進的学習科学と工学研究会, 69–76."
+        - "芦田淳, 古池謙人, 森田海, & 油谷知岐. (2025). 第35回教育・学習支援システム若手の会 報告. 人工知能学会第103回先進的学習科学と工学研究会, 33–38."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2025). 仮想ロボットプログラミングにおけるタスク実行戦略の類似性を考慮した他者コード共有機能の実装と評価. 人工知能学会第103回先進的学習科学と工学研究会, 39–44."
+        - "内山裕太, 白髭虹輝, 古池謙人, & 東本崇仁. (2025). 部品の段階的拡張手法を活用した中学数学の関数分野における解法の構造理解と再利用を促す学習支援システムの設計・開発. 人工知能学会第103回先進的学習科学と工学研究会, 15–20."
+        - "内山裕太, 白髭虹輝, 古池謙人, & 東本崇仁. (2025). 数学学習における解法の構造理解と再利用を可能とする学習手法の提案と学習支援システムの開発と評価. 教育システム情報学会特集論文研究会研究報告= JSiSE Research Report, 39(6), 91–98."
+        - "Jean Paul Pierret Robles, 相川野々香, 古池謙人, & 東本崇仁. (2025). 誤り探索活動の支援機能を有する力学Error-based simulation(EBS)の評価. 教育システム情報学会特集論文研究会研究報告= JSiSE Research Report, 39(6), 182–189."
+        - "古池謙人. (2025). プログラミングにおける認知活動を対象としたサブゴール柔軟性に関する初期検討. 電子情報通信学会技術研究報告(ET), 124(388), 38–45."
+        - "古池謙人, 油谷知岐, 芦田淳, 森田海, & 久乗皓大. (2024). 合目的的な学習課題デザインに目掛けたドメインモデル設計プロセスの初期検討. 人工知能学会第102回先進的学習科学と工学研究会, 38–43."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2024). プログラミングを対象としたサブゴール学習支援における振る舞い可視化の効果. 電子情報通信学会技術研究報告(ET), 124(306), 27–34."
+        - "横田裕之, 古池謙人, & 赤倉貴子. (2024). AIチャットボットと共有コメント機能を備えた講義復習用Webシステムの試作と試用. 電子情報通信学会技術研究報告(ET), 124(246), 14–17."
+        - "相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 林健彦, 今井功, 堀口知也, & 平嶋宗. (2024). EBSにおける力の因果関係に基づく補助問題自動生成システムの授業実践の結果の分析. 人工知能学会第100回先進的学習科学と工学研究会, 30–35."
+        - "松爲泰生, 前田新太郎, 古池謙人, & 東本崇仁. (2024). プログラミングにおける振舞いモデルと機能解釈の理解を促す学習支援システムの評価. 人工知能学会第100回先進的学習科学と工学研究会, 129–134."
+        - "東本崇仁 & 古池謙人. (2024). 誤りの可視化モデルの拡張に関する検討. 人工知能学会第100回先進的学習科学と工学研究会, 115–122."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2024). 他者のコードからの学びを促すコード共有型プログラミング学習プラットフォームにおける共有制御の有無による効果の検証. 人工知能学会第100回先進的学習科学と工学研究会, 123–128."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2023). コード共有プラットフォームにおける戦略性を考慮した評価指標の提案と実装. 教育システム情報学会特集論文研究会研究報告= JSiSE Research Report, 37(7), 23–30."
+        - "古池謙人, 前田新太郎, 松爲泰生, & 東本崇仁. (2023). BEAR: 振る舞いモデルの理解を指向したソースコードの教育用振る舞い分析器. 人工知能学会第97回先進的学習科学と工学研究会, 19–23."
+        - "相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, & 平嶋宗. (2022). 力学を対象とした誤りに基づく問題提示システムを用いた授業実践におけるテスト結果の分析. 電子情報通信学会技術研究報告(ET), 122(241), 11–18."
+        - "松爲泰生, 前田新太郎, 古池謙人, & 東本崇仁. (2022). ソースコ―ドの振舞いモデルから機能の解釈を促す支援システムにおけるフィードバックの検討. 電子情報通信学会技術研究報告(ET), 122(241), 29–34."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2022). 洗練活動を促すコード共有プラットフォームにおける戦略を基にしたコードの共有手法. 電子情報通信学会技術研究報告(ET), 122(241), 25–28."
+        - "松爲泰生, 前田新太郎, 古池謙人, & 東本崇仁. (2022). ソースコードの振舞い制約の思考から機能の解釈を促す支援システムの提案. 人工知能学会第95回先進的学習科学と工学研究会, 11–14."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2022). 仮想ロボットプログラミングを対象としたコードの洗練活動を促す知識共有プラットフォームの実践利用の分析. 人工知能学会第95回先進的学習科学と工学研究会, 1–6."
+        - "齊藤寛, 相川野々香, 古池謙人, & 東本崇仁. (2022). 力学における学習者の誤答に基づいた誤り作問システムの開発と評価. 人工知能学会第94回先進的学習科学と工学研究会, 7–12."
+        - "松爲泰生, 前田新太郎, 茂木誠拓, 古池謙人, & 東本崇仁. (2022). 振舞いのトレースを通してソースコードの機能の理解を促す学習支援システムの開発. 人工知能学会第94回先進的学習科学と工学研究会, 13–18."
+        - "石井翔大, 古池謙人, & 東本崇仁. (2022). 人狼ゲームにおける振り返り活動を通じた自責的思考を促す支援システムの開発と評価. 電子情報通信学会技術研究報告(ET), 121(406)(406), 123–128."
+        - "相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, & 平嶋宗. (2022). Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践. 2021年度JSiSE学生研究発表会, 67–68."
+        - "松爲泰生, 前田新太郎, 茂木誠拓, 古池謙人, & 東本崇仁. (2022). プログラミングにおける振る舞いと機能の理解を指向した学習支援システム. 2021年度JSiSE学生研究発表会, 41–42."
+        - "古池謙人, 樋村いづみ, & 東本崇仁. (2021). 誤りの可視化を重視したTeachable Agentモデリング手法の提案. 電子情報通信学会技術研究報告(ET), 121(294)(294), 57–62."
+        - "茂木誠拓, 古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2021). すれ違いの解消を指向した背景知識を推定する能力を育成する学習支援システムの開発. 人工知能学会第92回先進的学習科学と工学研究会, 31–36."
+        - "相川野々香, 古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2021). Error-based Simulationを対象にした因果推論理論に基づく自動的な補助問題生成法の検討. 人工知能学会第92回先進的学習科学と工学研究会, 6–11."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2021). プログラミングを対象とした競争型知識共有プラットフォームにおける評価指標の妥当性検証. 人工知能学会第92回先進的学習科学と工学研究会, 12–17."
+        - "茂木誠拓, 古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2021). すれ違いの解消スキル育成を指向した学習支援システムの提案. 人工知能学会第91回先進的学習科学と工学研究会, 99–104."
+        - "相川野々香, 古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2021). Error-based Simulationにおける自動的な補助問題生成法の提案. 人工知能学会第91回先進的学習科学と工学研究会, 105–110."
+        - "樋村いづみ, 古池謙人, & 東本崇仁. (2021). 算数文章題の制約理解を目的とした教育エージェントを伴う作問学習支援システムの開発. 人工知能学会第91回先進的学習科学と工学研究会, 79–86."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2021). ロボットプログラミングを題材にした競争型知識共有プラットフォームの提案と実装. 人工知能学会第91回先進的学習科学と工学研究会, 87–92."
+        - "藤島優希, 古池謙人, & 東本崇仁. (2021). 知識の再利用性向上を目的としたプログラミング学習における理解状態に基づく適応的フィードバックの開発と評価. 人工知能学会第91回先進的学習科学と工学研究会, 60–65."
+        - "座間出実, 古池謙人, & 東本崇仁. (2021). 部品の利用と組み合わせを指向したプログラミング学習支援システムの開発と評価. 人工知能学会第91回先進的学習科学と工学研究会, 54–59."
+        - "太田光一, 油谷知岐, 古池謙人, 堀越泉, 田和辻可昌, & 山元翔. (2021). 第31回 教育・学習支援システム若手の会 報告. 人工知能学会第91回先進的学習科学と工学研究会, 28–33."
+        - "茂木誠拓, 古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2021). すれ違いの解消に向けた背景知識の推論能力を育成する学習支援システムの提案. 2020年度JSiSE学生研究発表会, 85–86."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2021). 競争型知識共有プラットフォームを用いたロボットプログラミングによる学習支援システムの検討. 2020年度JSiSE学生研究発表会, 51–52."
+        - "茂木誠拓, 古池謙人, & 東本崇仁. (2020). 技術仕様書における処理と対象に焦点を当てた文章読解の能力を育成する学習支援環境の検討. 人工知能学会第89回先進的学習科学と工学研究会, 25–28."
+        - "相川野々香, 古池謙人, & 東本崇仁. (2020). 行詰り解決を指向したError-based Simulationシステムの補助問題提示機能による学習活動の分析. 人工知能学会第89回先進的学習科学と工学研究会, 17–20."
+        - "座間出実, 古池謙人, & 東本崇仁. (2020). 部品の利用と合成を指向したプログラミング学習支援システムの開発. 人工知能学会第89回先進的学習科学と工学研究会, 21–24."
+        - "茂木誠拓, 古池謙人, & 東本崇仁. (2020). 要求分析能力の獲得支援を指向した学習環境に対するフィードバック機能による効果の検証. 人工知能学会第88回先進的学習科学と工学研究会, 61–64."
+        - "茂木誠拓, 古池謙人, & 崇仁 東本. (2019). 要求分析における処理の明確化を指向した学習環境における学びの検証と行き詰まり箇所の考察. 人工知能学会第87回先進的学習科学と工学研究会, 1–6."
+        - "茂木誠拓, 古池謙人, & 東本崇仁. (2019). システム開発における要求具体化タスクと支援環境の提案. 人工知能学会第86回先進的学習科学と工学研究会, 89–92."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2019). プログラミングにおける学習者の部品構築プロセスを考慮した学習支援システムの提案. 人工知能学会第86回先進的学習科学と工学研究会, 66–69."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2019). プログラミングにおける部品の獲得・拡張活動プロセス. 人工知能学会第85回先進的学習科学と工学研究会, 104–109."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2018). プログラミング課題を構造化することによる理解状態に適応した課題提示方法の検討. 人工知能学会第83回先進的学習科学と工学研究会, 35–40."
+        - "辻優也, 古池謙人, & 東本崇仁. (2018). ロボットによる教授行動に用いた色情報が人の印象に与える影響. 教育システム情報学会第1回研究会研究報告, 1–8."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2018). プログラミング学習を対象とした課題系列の拡張. 人工知能学会第82回先進的学習科学と工学研究会, 7–12."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2018). プログラミング課題を対象とした課題系列の構築. 2017年度JSiSE学生研究発表会, A04."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2017). プログラミングにおける段階的な課題系列の検討. 電子情報通信学会技術研究報告(ET), 117(296), 47–52."
+        - "古池謙人 & 東本崇仁. (2017). プログラムにおける構造的理解のための部品の段階的拡張手法の提案とそのシステムの開発. 教育システム情報学会特集論文研究会研究報告= JSiSE Research Report, 31(7)(8), 211–218."
+        - "綾部沙樹, 古池謙人, & 東本崇仁. (2017). 複数科目の階層化に基づいた学習方法の転移支援システムの開発. 人工知能学会第79回先進的学習科学と工学研究会, 45–50."
+        - "古池謙人 & 東本崇仁. (2017). プログラミング学習における部品の段階的拡張手法の提案. 2016年度JSiSE学生研究発表会, B01."
+        - "古池謙人 & 東本崇仁. (2016). 段階的な設計能力の向上を目的としたブロック育成型学習支援システムの提案. 人工知能学会第78回先進的学習科学と工学研究会, 35–38."
+        - "古池謙人 & 東本崇仁. (2015). FPSを対象とした瞬間判断能力の育成システム. 人工知能学会第75回先進的学習科学と工学研究会, 50–53."
+
+    - NameJa: 全国大会
+      NameEn: Domestic Conference Papers
+      Title: Domestic Conference Papers
+      DetailCount: True
+      Items:
+        - "古池謙人, 油谷知岐, 芦田淳, 森田海, & 久乗皓大. (2025). なぜ計算論的認知スキーマが今必要なのか？－システム設計意図の整合性評価・比較・共有に向けて－. 教育システム情報学会全国大会講演論文集, 315–316."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2025). 仮想ロボットプログラミングにおけるタスク実行戦略の類似性を考慮した他者コード共有機能の予備的評価. 教育システム情報学会全国大会講演論文集, 203–204."
+        - "Pierret Robles, J. P., 相川野々香, 古池謙人, & 東本崇仁. (2025). Error-based Simulationにおける仮説駆動型誤り探索支援の提案. 教育システム情報学会全国大会講演論文集, 47–48."
+        - "森下舜一, 古池謙人, & 赤倉貴子. (2025). コードをブロック分割し仮説検証を繰り返すデバッグ学習支援手法の提案. 2025年電子情報通信学会総合大会 ジュニア&学生ポスターセッション予稿集, JSPO-102."
+        - "徳田勇真, 古池謙人, & 赤倉貴子. (2025). 複数物体の複雑な運動を学習するために視点移動を取り入れたVR Error-Based Simulationの開発と評価. 2025年電子情報通信学会総合大会 ジュニア&学生ポスターセッション予稿集, JSPO-77."
+        - "中村美月, 古池謙人, & 赤倉貴子. (2025). Error-based Simulationの拡張による知的財産法の学習支援システムの提案. 2025年電子情報通信学会総合大会 ジュニア&学生ポスターセッション予稿集, JSPO-58."
+        - "湊祐太朗, 中村修也, 櫻井信豪, 古池謙人, & 赤倉貴子. (2025). 慣性式モーションキャプチャを用いた細胞培養における初学者と熟達者の身体動作の比較分析. 日本教育工学会春季全国大会講演論文集, 339−340."
+        - "相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 林健彦, 今井功, 堀口知也, & 平嶋宗. (2024). Error-based Simulationにおける学習者の誤りと力の因果関係に基づく補助問題自動生成システムの授業実践のテスト結果の分析. 教育システム情報学会全国大会講演論文集, 255–256."
+        - "東昭太朗, 上田裕貴, & 古池謙人. (2024). オンライン学習環境における援助要請行動促進のための大規模言語モデルを用いたつまずき明確化支援システム. 教育システム情報学会全国大会講演論文集, 215–216."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2024). プログラミングにおける「より良いコード」記述のためのモデル化とコード共有プラットフォームでの妥当性検証. 教育システム情報学会全国大会講演論文集, 307–308."
+        - "内山裕太, 古池謙人, & 東本崇仁. (2024). 中学数学の関数分野における解法の構造理解と部品的知識の獲得・再利用を指向した学習支援システムの提案. 教育システム情報学会全国大会講演論文集, 97–98."
+        - "Pierret Robles, J. P., 相川野々香, 古池謙人, & 東本崇仁. (2024). 観測器を用いた力学Error-based Simulationシステムにおける誤り箇所探索支援機能の拡張. 教育システム情報学会全国大会講演論文集, 35–36."
+        - "相川野々香, 前田新太郎, 古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2023). 力学における力の因果関係に基づく再帰的な補助問題自動生成システムの試作. 教育システム情報学会全国大会講演論文集, 261–262."
+        - "荻田将徳, 前田新太郎, 相川野々香, 古池謙人, & 東本崇仁. (2023). 教える活動を通じた物理における制約理解を指向したTeachable Agent Module for Error-visualizationの開発. 教育システム情報学会全国大会講演論文集, 111–112."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2023). コードの洗練活動を促すコード共有型プログラミング学習プラットフォームにおける静的な評価指標の検討. 教育システム情報学会全国大会講演論文集, 121–122."
+        - "松爲泰生, 前田新太郎, 古池謙人, & 東本崇仁. (2023). プログラミングを対象とした振舞いモデルから機能の解釈を支援するシステムの開発. 教育システム情報学会全国大会講演論文集, 73–74."
+        - "相川野々香, 前田新太郎, 古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2023). 力学を対象とした力の因果関係に基づく補助問題の自動生成システムの開発. 第37回人工知能学会全国大会, [1R5-OS-10b-03]."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2023). コード共有プラットフォームにおける戦略を考慮した評価指標の実装とその評価. 第37回人工知能学会全国大会, [1R4-OS-10a-02]."
+        - "荻田将徳, 相川野々香, 古池謙人, & 東本崇仁. (2022). 物理を題材としたTeachable Agent Modeling for Error-visualizationにおける制約の提案. 第24回日本感性工学会大会, [1D-1-07]."
+        - "松爲泰生, 前田新太郎, 古池謙人, & 東本崇仁. (2022). ソースコードの機能の理解を振舞いモデルの解釈から促す支援システムの提案. 第24回日本感性工学会大会, [1D-1-06]."
+        - "荻田将徳, 前田新太郎, 相川野々香, 古池謙人, & 東本崇仁. (2022). 物理における制約の理解を指向したTeachable Agent Modeling for Error-visualizationによる学習手法の提案. 教育システム情報学会全国大会講演論文集, 171–172."
+        - "相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, & 平嶋宗. (2022). 力学における学習者の誤りに適応的な問題提示システムの授業実践の報告. 教育システム情報学会全国大会講演論文集, 301–302."
+        - "松爲泰生, 前田新太郎, 古池謙人, & 東本崇仁. (2022). ソースコードの振る舞い制約と機能の理解を指向した学習支援環境の提案. 教育システム情報学会全国大会講演論文集, 249–250."
+        - "前田新太郎, 古池謙人, & 東本崇仁. (2022). より良いコードへ洗練する活動を促す仮想ロボットプログラミングを用いたコード共有プラットフォームの授業実践. 教育システム情報学会全国大会講演論文集, 209–210."
+        - "相川野々香, 古池謙人, & 東本崇仁. (2021). 力学学習支援システムにおける補助問題の自動生成ルールの提案. 第23回日本感性工学会大会, [1D01-10-03]."
+        - "相川野々香, 古池謙人, & 東本崇仁. (2020). Error-based Simulationシステムにおける行詰り解決のための学習履歴を用いた補助問題提示方法の提案. 第22回日本感性工学会大会, [2B06-10-04]."
+        - "古池謙人, 茂木誠拓, 東本崇仁, 堀口知也, & 平嶋宗. (2020). 振舞いを可視化することによるプログラミング学習支援システムの開発. 第22回日本感性工学会大会, [2B06-10-05]."
+        - "Mogi, T., Koike, K., & Tomoto, T. (2020). Evaluation of feedback in a learning environment to improve requirement analysis skills. The 34th Annual Conference of the Japanese Society for Artificial Intelligence, [1G4-ES-5-05]."
+        - "酒川拓也, 古池謙人, & 東本崇仁. (2020). 連続的なインタラクションにおいてロボットの発色を伴う教授行動が学習者の心的状態に与える影響. 第15回日本感性工学会春季大会, [1E-04]."
+        - "古池謙人, 中村遥佳, 遠藤杏奈, & 油谷知岐. (2020). 志学の会: 2019年度 年間活動報告—感性工学における入り口としての在り方と展望 -. 第15回日本感性工学会春季大会, [1E-01]."
+        - "酒川拓也, 古池謙人, & 東本崇仁. (2019). ロボットの教授行動を用いて学習者の心的状態をコントロールする手法の検討. 教育システム情報学会全国大会講演論文集, 405–406."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2019). プログラミング学習での問題解決過程を考慮する学習支援システムの試作. 教育システム情報学会全国大会講演論文集, 447–448."
+        - "茂木誠拓, 古池謙人, & 東本崇仁. (2019). システム開発における要求具体化スキル獲得支援環境の構築. 教育システム情報学会全国大会講演論文集, 99–100."
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2018). プログラミングにおける構造的理解のための部品の段階的拡張手法を用いたシステムの評価. 教育システム情報学会全国大会講演論文集, 409–410."
+        - "辻優也, 古池謙人, & 東本崇仁. (2018). ロボットによる学習者に適応的な色情報を活用した教授行動の検討. 教育システム情報学会全国大会講演論文集, 313–314."
+        - "古池謙人 & 東本崇仁. (2017). ボトムアップ型アプローチを用いたプログラミング学習手法の提案. 教育システム情報学会全国大会講演論文集, 255–256."
+        - "古池謙人, 山添崇, 東本崇仁, & 東吉彦. (2016). ヒトの主観的印象に基づくロゴデザインの自動評価システムの開発. 情報処理学会第78回全国大会講演論文集, 715–716."
+
+    - NameJa: その他の発表
+      NameEn: Other Talks
+      Title: Other Talks
+      DetailCount: True
+      Items:
+        - "古池謙人, 東本崇仁, 堀口知也, & 平嶋宗. (2018, March 28). プログラミング的思考を促すための段階的理解手法 [ポスター発表（WP2-17）]. 日本感性工学会春季大会."
+        - "古池謙人, 山添崇, 東吉彦, & 東本崇仁. (2017, July 17). 視覚刺激の提示位置が一時記憶に及ぼす影響 [口頭発表]. 第8回 Ambient Feedback System 研究会×日本感性工学会而立の会 2017年度研究会."
+
+    - NameJa: 招待講演
+      NameEn: Invited Talk
+      Title: Invited Talk
+      DetailCount: False
+      Items:
+        - "古池謙人. (2025, July 26). ハイコンテキスト・データの魅力：データ利活用ハブとしての知的学習支援システム [特別招待講演]. EDE研究会「教育データの利活用と個人適応型学習環境」, オンライン. https://ederc.jp/2025/06/20250726_theme/"
+        - "古池謙人. (2019, September 11). 教育・学習支援システム研究における若手研究者の研究態度とは？ [パネリスト]. 第44回教育システム情報学会全国大会 プレカンファレンス（PC1）."
+
+    - NameJa: メディア掲載
+      NameEn: Media
+      Title: Media
+      DetailCount: False
+      Items:
+        - 'コウゲイの学び, 東京工芸大学ウェブサイト, (2022.08.04) <a href="https://www.t-kougei.ac.jp/manabi/engineering/85185.html">(link)</a>'
+        - "えんのき（2022年 夏号）, 東京工芸大学, p. 16, (2022.07)"
+
+    - NameJa: 博士論文
+      NameEn: Doctoral Thesis
+      Title: Doctoral Thesis
+      DetailCount: False
+      Items:
+        - '古池謙人. (2023). 情報構造指向アプローチに基づく知的学習支援システムの汎化を指向した多角的発展に関する研究. 東京工芸大学. <a href="http://id.nii.ac.jp/1245/00002150/">(link)</a>'

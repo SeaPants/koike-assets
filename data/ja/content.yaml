@@ -1,0 +1,338 @@
+00PersonalData:
+  Style: PersonalData
+  Title: 基本情報
+  Name: 古池 謙人
+  Information:
+    - Name: 名前
+      Value: 古池 謙人 (Kento Koike)
+    - Name: 学位
+      Value: 博士（工学）
+    - Name: 所属
+      Items:
+        - 東京理科大学 工学部 情報工学科
+        - 千葉工業大学 附属研究所
+    - Name: Researchmap
+      Value: "[古池 謙人](https://researchmap.jp/k_k01ke)"
+    - Name: 誕生日
+      Value: "1996-03-05"
+
+01Contacts:
+  Style: List
+  Title: 連絡先
+  Items:
+    - "kento [at] koike.app （学内業務・連絡以外の全て）"
+    - "k.koike [at] rs.tus.ac.jp （学内業務・連絡のみ）"
+
+02Career:
+  Style: TimespanList
+  Title: 職歴
+  Sections:
+    - Name: 専任
+      Items:
+        - Start: "2024.07"
+          End: "現在"
+          Value: "東京理科大学 工学部 情報工学科 助教 ([赤倉研究室](https://akakura-lab.jp))"
+        - Start: "2024.04"
+          End: "2024.06"
+          Value: "独立研究開発コンサルタント（主要取引先: 株式会社manabo）"
+        - Start: "2023.04"
+          End: "2024.03"
+          Value: "京都大学 学術情報メディアセンター 特定研究員 ([緒方研究室](https://www.let.media.kyoto-u.ac.jp/))"
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: 株式会社manabo manabo事業部 マネージャー（正社員）
+    - Name: 非常勤
+      Items:
+        - Start: "2024.04"
+          End: "現在"
+          Value: "千葉工業大学 附属研究所 共同研究員 ([東本研究室](https://takahito.com/))"
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: 明海大学 総合教育センター 非常勤助教
+        - Start: "2021.05"
+          End: "2022.03"
+          Value: SATT AI ラボ株式会社 manabo事業部 インターン
+        - Start: "2017.07"
+          End: "2021.02"
+          Value: 東京工芸大学 リサーチ・アシスタント
+        - Start: "2017.04"
+          End: "2022.03"
+          Value: 東京工芸大学 ティーチング・アシスタント
+        - Start: "2015.08"
+          End: "2016.09"
+          Value: 小中学生向けプログラミング教室 講師
+
+03Education:
+  Style: Education
+  Title: 学歴
+  Sections:
+    - Name: 東京工芸大学大学院
+      Organisation: 工学研究科 電子情報工学専攻 博士後期課程
+      Website: "https://www.t-kougei.ac.jp/"
+      StartDate: "2020.04"
+      EndDate: "2023.03"
+      Qualification: 博士（工学）
+    - Name: 東京工芸大学大学院
+      Organisation: 工学研究科 電子情報工学専攻 博士前期課程
+      Website: "https://www.t-kougei.ac.jp/"
+      StartDate: "2018.04"
+      EndDate: "2020.03"
+      Qualification: 修士（工学）
+    - Name: 東京工芸大学
+      Organisation: 工学部 コンピュータ応用学科
+      Website: "https://www.t-kougei.ac.jp/"
+      StartDate: "2014.04"
+      EndDate: "2018.03"
+      Qualification: 学士（工学）
+
+10TeachingExperiences:
+  Style: TimespanList
+  Title: 教育歴
+  Sections:
+    - Name: 教育・学習支援システム
+      Items:
+        - Start: "2025.04"
+          End: "2025.09"
+          Value: "東京理科大学工学部情報工学科「教育システムデザイン」 共同講師（担当: 「システム開発」）"
+        - Start: "2024.10"
+          End: "2025.03"
+          Value: "東京理科大学工学部情報工学科「応用情報工学演習」 共同講師（担当: 赤倉研究室コースの一部「大規模言語モデルを活用したTeachable Agentの開発」）"
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: "東京理科大学工学部情報工学科「情報工学実験2」 共同講師（担当: 赤倉研究室担当範囲「教育システム設計」，鬼沢研究室担当範囲「無線通信システム設計」）"
+        - Start: "2025.04"
+          End: "2025.09"
+          Value: "東京理科大学工学部情報工学科「情報工学実験3」 共同講師（担当: 赤倉研究室担当範囲「Webテストシステムの開発」）"
+        - Start: "2023.10"
+          End: "2024.03"
+          Value: "京都大学大学院情報学研究科「情報教育特論」 共同講師（担当: 「Intelligent Tutoring SystemとLearning Analytics」）"
+    - Name: データサイエンス
+      Items:
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: "明海大学「学修の基礎Ⅲ-a（データリテラシー　数理・推論）」 講師"
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: "明海大学「学修の基礎Ⅲ-b（情報リテラシー）」 講師"
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: "明海大学「科学技術と社会」 講師"
+        - Start: "2021.04"
+          End: "2022.03"
+          Value: "東京工芸大学工学部「統計処理」 TA"
+        - Start: "2018.04"
+          End: "2019.03"
+          Value: "東京工芸大学工学部「統計処理」 TA"
+    - Name: プログラミング
+      Items:
+        - Start: "2019.04"
+          End: "2022.03"
+          Value: "東京工芸大学工学部「Javaプログラミング」 TA"
+        - Start: "2020.04"
+          End: "2021.03"
+          Value: "東京工芸大学工学部「オブジェクト指向プログラミング」 TA"
+        - Start: "2015.08"
+          End: "2016.09"
+          Value: "小中学生向けプログラミング教室 講師・教室運営"
+    - Name: 基礎情報科目
+      Items:
+        - Start: "2019.04"
+          End: "2020.03"
+          Value: "東京工芸大学工学部「情報処理概論」 TA"
+        - Start: "2018.04"
+          End: "2020.03"
+          Value: "東京工芸大学工学部「情報技術入門」 TA"
+        - Start: "2017.04"
+          End: "2018.03"
+          Value: "東京工芸大学芸術学部「情報処理演習B」 SA"
+    - Name: その他
+      Items:
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: "東京理科大学工学部情報工学科「ソーシャルデザイン」 共同講師"
+        - Start: "2025.04"
+          End: "2025.09"
+          Value: "東京理科大学工学部情報工学科「キャリアデザイン」 共同講師"
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: "東京理科大学工学部情報工学科「工学基礎実験」 共同講師"
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: "東京理科大学工学部情報工学科「技術英語2」 共同講師"
+        - Start: "2025.04"
+          End: "2025.09"
+          Value: "東京理科大学工学部情報工学科「卒業研究1」 共同講師"
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: "東京理科大学工学部情報工学科「卒業研究2」 共同講師"
+    - Name: 指導資格
+      Items:
+        - Start: "2025.10.01"
+          Value: "東京理科大学大学院工学研究科 研究指導補助教員（修士課程）（M合）"
+
+11AcademicServices:
+  Style: TimespanList
+  Title: 学術活動
+  Sections:
+    - Name: 会員
+      Items:
+        - Start: "2024.10"
+          End: 現在
+          Value: 電子情報通信学会 (IEICE)
+        - Start: "2023.10"
+          End: "2024.10"
+          Value: Society for Learning Analytics Research (SoLAR)
+        - Start: "2023.07"
+          End: 現在
+          Value: 教育システム情報学会 (JSiSE)
+        - Start: "2023.04"
+          End: "2024.07"
+          Value: エビデンス駆動型教育研究協議会
+        - Start: "2020.06"
+          End: 現在
+          Value: 人工知能学会 (JSAI)
+        - Start: "2017.09"
+          End: 現在
+          Value: Asia-Pacific Society for Computers in Education (APSCE)
+        - Start: "2017.05"
+          End: "2022.05"
+          Value: 日本感性工学会 (JSKE)
+    - Name: 学会
+      Items:
+        - Start: "2025.10"
+          End: 現在
+          Value: 学習分析学会 事業活動委員会 委員
+        - Start: "2025.09"
+          End: 現在
+          Value: 人工知能学会 論文特集「学習科学と学習工学のフロンティア」編集委員会 幹事
+        - Start: "2025.07"
+          End: 現在 #"2027.06"
+          Value: 教育システム情報学会 研究活性化委員会 幹事
+        - Start: "2025.04"
+          End: 現在
+          Value: 人工知能学会 先進的学習科学と工学研究会（SIG-ALST） 運営委員会 幹事
+        - Start: "2025.03"
+          End: "2025.09"
+          Value: Program Committee of ICLEA 2025 (The 1st International Conference on Learning Evidence and Analytics)
+        - Start: "2024.12"
+          End: "2025.06"
+          Value: 教育システム情報学会 研究活性化委員会 委員
+        - Start: "2024.06"
+          End: "現在" #"2026.06"
+          Value: 電子情報通信学会 教育工学（ET）研究会 専門委員会 幹事補佐
+        - Start: "2024.01"
+          End: 現在
+          Value: 教育システム情報学会 全国大会委員会 プログラム部会専門委員
+        - Start: "2023.10"
+          End: 現在
+          Value: Parallel Session Organizer of HCII (International Conference on Human-Computer Interaction)
+        - Start: "2023.05"
+          End: "2024.03"
+          Value: LOC Logistics Chair of LAK24 (The 14th International Conference on Learning Analytics & Knowledge)
+        - Start: "2023.04"
+          End: "2025.03"
+          Value: 人工知能学会 先進的学習科学と工学研究会（SIG-ALST） 運営委員会 専門委員
+        - Start: "2023.04"
+          End: "2024.07"
+          Value: エビデンス駆動型教育研究協議会 SIG1（教育データ利活用のための基盤システムのあり方、教育データ標準化） 共同主査
+        - Start: "2023.04"
+          End: "2023.12"
+          Value: Local Organizing Committee of ICCE 2023 (31st International Conference on Computers in Education)
+        - Start: "2020.09"
+          End: "2021.08"
+          Value: 2021年度人工知能学会全国大会 実行委員（学生企画担当）
+        - Start: "2019.09"
+          End: "2020.08"
+          Value: 2020年度人工知能学会全国大会 実行委員（学生企画担当）
+    - Name: 査読
+      Items:
+        - Start: 2024
+          Value: HCI International 2025 (27th International Conference on Human-Computer Interaction)
+        - Start: 2024
+          Value: 2 x Research and Practice in Technology Enhanced Learning (RPTEL)
+        - Start: 2023
+          Value: HCI International 2024 (26th International Conference on Human-Computer Interaction)
+        - Start: 2023
+          Value: Journal of Robotics and Mechatronics
+        - Start: 2022
+          Value: HCI International 2023 (25th International Conference on Human-Computer Interaction)
+        - Start: 2020
+          Value: HCI International 2021 (23rd International Conference on Human-Computer Interaction)
+    - Name: コミュニティ
+      Items:
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: 第36回教育・学習支援システム若手の会 企画・事務担当幹事
+        - Start: "2024.04"
+          End: "2025.03"
+          Value: 第35回教育・学習支援システム若手の会 プログラム幹事
+        - Start: "2023.05"
+          End: "2023.06"
+          Value: Local Staff of EDUsummIT 2023
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: 第33回教育・学習支援システム若手の会 幹事
+        - Start: "2018.12"
+          End: 現在
+          Value: "Co-Founder & Executive Committee of [CALST (Co-study Group on Advanced Learning Science and Technology)](https://calst.org/)"
+        - Start: "2020.04"
+          End: "2021.03"
+          Value: 第31回教育・学習支援システム若手の会 プログラム幹事
+        - Start: "2020.04"
+          End: "2021.03"
+          Value: 日本感性工学会 学生部会「志学の会」 副代表
+        - Start: "2019.04"
+          End: "2020.03"
+          Value: 日本感性工学会 学生部会「志学の会」 代表
+        - Start: "2017.07"
+          End: "2019.03"
+          Value: 日本感性工学会 学生部会「志学の会」 幹部
+
+12SocialServices:
+  Style: TimespanList
+  Title: 社会貢献
+  Sections:
+    - Name: 教育・学習支援システムの実践利用
+      Items:
+        - Start: 2025.02.19
+          End: 2025.02.21
+          Value: Error-based Simulation利用，千葉市立都賀中学校，1年生4クラス，各3時限
+        - Start: 2023.04.01
+          End: 2024.03.31
+          Value: "[LEAFプラットフォーム](https://eds.let.media.kyoto-u.ac.jp/leaf/)の実践的運用・基盤管理"
+        - Start: 2021.12.09
+          End: 2021.12.14
+          Value: Error-based Simulation利用，千葉市立さつきが丘中学校，3年生3クラス（約90名），各3時限
+        - Start: 2020.12.22
+          End: 2020.12.24
+          Value: Error-based Simulation利用，千葉市立さつきが丘中学校，3年生3クラス（計67名），各2時限
+        - Start: "2016.09"
+          End:
+          Value: Error-based Simulation利用，千葉市立花園中学校，3年生9クラス（約300名），各2時限
+
+13Grants:
+  Style: TimespanList
+  Title: 資金獲得
+  Sections:
+    - Name: 外部研究費
+      Items:
+        - Start: "2025.04"
+          End: "2028.03"
+          Value: "手続き的問題解決におけるサブゴール柔軟性の獲得を指向した学習支援システム, JSPS科研費 若手研究 （課題番号: 25K21362）（研究代表者）"
+    - Name: 奨学金
+      Items:
+        - Start: "2023.06"
+          Value: 日本学生支援機構 特に優れた業績による返還免除（*2の半額）
+        - Start: "2020.06"
+          Value: 日本学生支援機構 特に優れた業績による返還免除（*1の全額）
+        - Start: "2020.04"
+          End: "2023.03"
+          Value: 日本学生支援機構 第一種奨学金（無利子）（*2）
+        - Start: "2018.09"
+          Value: 東京工芸大学工学部同窓会奨学金（給付）
+        - Start: "2018.04"
+          End: "2020.03"
+          Value: 日本学生支援機構 第一種奨学金（無利子）（*1）
+        - Start: "2014.04"
+          End: "2018.03"
+          Value: 日本学生支援機構 第一種奨学金（無利子）

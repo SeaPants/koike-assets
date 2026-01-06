@@ -1,0 +1,338 @@
+00PersonalData:
+  Style: PersonalData
+  Title: Personal Data
+  Name: Kento Koike
+  Information:
+    - Name: Name
+      Value: Kento Koike
+    - Name: Degree
+      Value: Ph.D. in Engineering
+    - Name: Affiliations
+      Items:
+        - Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Research Liaison Centre, Chiba Institute of Technology
+    - Name: Researchmap
+      Value: "[Kento Koike](https://researchmap.jp/k_k01ke?lang=en)"
+    - Name: Birthday
+      Value: "1996-03-05"
+
+01Contacts:
+  Style: List
+  Title: Contacts
+  Items:
+    - "kento [at] koike.app (for anything except on-campus business/contact)"
+    - "k.koike [at] rs.tus.ac.jp (for on-campus business/contact only)"
+
+02Career:
+  Style: TimespanList
+  Title: Career
+  Sections:
+    - Name: Full-time
+      Items:
+        - Start: "2024.07"
+          End: "Present"
+          Value: "Assistant Professor, ([Akakura Lab.](https://akakura-lab.jp)), Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science"
+        - Start: "2024.04"
+          End: "2024.06"
+          Value: Freelance R&D Consultant mainly for manabo, Inc.
+        - Start: "2023.04"
+          End: "2024.03"
+          Value: "Program-specific Researcher ([Ogata Lab.](https://www.let.media.kyoto-u.ac.jp/en/)) at Academic Center for Computing and Media Studies, Kyoto University"
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: Manager (Full-time) at manabo Operations Department, manabo, Inc.
+    - Name: Part-time
+      Items:
+        - Start: "2024.04"
+          End: "Present"
+          Value: "Collaborative Researcher ([Tomoto Lab.](https://takahito.com)), Research Liaison Centre, Chiba Institute of Technology"
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: Part-time Assistant Professor at Integrated Education Center, Meikai University
+        - Start: "2021.05"
+          End: "2022.03"
+          Value: Intern at Operations Department of manabo, SATT AI Lab, Inc.
+        - Start: "2017.07"
+          End: "2021.02"
+          Value: Research Assistant at Tokyo Polytechnic University
+        - Start: "2017.04"
+          End: "2022.03"
+          Value: Teaching Assistant at Tokyo Polytechnic University
+        - Start: "2015.08"
+          End: "2016.09"
+          Value: Lecturer at the Programming School
+
+03Education:
+  Style: Education
+  Title: Education
+  Sections:
+    - Name: Tokyo Polytechnic University
+      Organisation: Ph.D. Course, Department of Electronics and Information Technology, Graduate School of Engineering
+      Website: "https://www.t-kougei.ac.jp/en/"
+      StartDate: "2020.04"
+      EndDate: "2023.03"
+      Qualification: Ph.D. in Engineering
+    - Name: Tokyo Polytechnic University
+      Organisation: Master Course, Department of Electronics and Information Technology, Graduate School of Engineering
+      Website: "https://www.t-kougei.ac.jp/en/"
+      StartDate: "2018.04"
+      EndDate: "2020.03"
+      Qualification: Master of Engineering
+    - Name: Tokyo Polytechnic University
+      Organisation: Faculty of Engineering
+      Website: "https://www.t-kougei.ac.jp/en/"
+      StartDate: "2014.04"
+      EndDate: "2018.03"
+      Qualification: Bachelor of Engineering
+
+10TeachingExperiences:
+  Style: TimespanList
+  Title: Teaching Experiences
+  Sections:
+    - Name: Educational Systems
+      Items:
+        - Start: "2025.04"
+          End: "2025.09"
+          Value: Co-lecturer, "Design of Instructional Systems" (lecture on "System Development") at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2024.10"
+          End: "2025.03"
+          Value: Co-lecturer, "Exercises in Applied Information Engineering" (lecture on "Development of Teachable Agents using Large Language Models" as part of the Akakura Lab Course) at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: Co-lecturer, "Information Engineering Laboratory 2" (lecture on "Educational System Design" as the Akakura Lab component of the course, and lecture on "Design of Wireless Communication Systems" as the Onizawa Lab component of the course) at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2025.04"
+          End: "2025.09"
+          Value: Co-lecturer, "Information Engineering Laboratory 3" (lecture on "Development of Web Test System" as the Akakura Lab component of the course) at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2023.10"
+          End: "2024.03"
+          Value: Co-lecturer, "Educational Informatics" (lecture on "Intelligent Tutoring System and Learning Analytics") at Graduate School of Informatics, Kyoto University
+    - Name: Data Science
+      Items:
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: Lecturer, "Basic Studies III-a (Data Literacy, Mathematics, and Reasoning)" at Meikai University
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: Lecturer, "Basic Studies III-b (Information Literacy)" at Meikai University
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: Lecturer, "Science, Technology, and Society" at Meikai University
+        - Start: "2021.04"
+          End: "2022.03"
+          Value: TA, "Statistics" at Faculty of Engineering, Tokyo Polytechnic University
+        - Start: "2018.04"
+          End: "2019.03"
+          Value: TA, "Statistics" at Faculty of Engineering, Tokyo Polytechnic University
+    - Name: Programming
+      Items:
+        - Start: "2019.04"
+          End: "2022.03"
+          Value: TA, "Java Programming" at Faculty of Engineering, Tokyo Polytechnic University
+        - Start: "2020.04"
+          End: "2021.03"
+          Value: TA, "Object-oriented Programming" at Faculty of Engineering, Tokyo Polytechnic University
+        - Start: "2015.08"
+          End: "2016.09"
+          Value: Lecturer and Classroom Management at the Programming School
+    - Name: Introductory Computer Science
+      Items:
+        - Start: "2019.04"
+          End: "2020.03"
+          Value: TA, "Introduction to Information Processing" at Faculty of Engineering, Tokyo Polytechnic University
+        - Start: "2018.04"
+          End: "2020.03"
+          Value: TA, "Introduction to Information Technology" at Faculty of Engineering, Tokyo Polytechnic University
+        - Start: "2017.04"
+          End: "2018.03"
+          Value: SA, "Information Processing Seminar B" at Faculty of Arts, Tokyo Polytechnic University
+    - Name: Others
+      Items:
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: Co-lecturer, "Social Design" at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2025.04"
+          End: "2025.09"
+          Value: Co-lecturer, "Career Design" at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: Co-lecturer, "Basic Engineering Laboratory" at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: Co-lecturer, "Technical English 2" at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2025.04"
+          End: "2025.09"
+          Value: Co-lecturer, "Seminar for Dissertation 1" at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: Co-lecturer, "Seminar for Dissertation 2" at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+    - Name: Qualification
+      Items:
+        - Start: "2025.10.01"
+          Value: "Assistant Supervisor (Master's Program), Graduate School of Engineering, Tokyo University of Science"
+
+11AcademicServices:
+  Style: TimespanList
+  Title: Academic Services
+  Sections:
+    - Name: Memberships
+      Items:
+        - Start: "2024.10"
+          End: Present
+          Value: The Institute of Electronics, Information and Communication Engineers (IEICE)
+        - Start: "2023.10"
+          End: "2024.10"
+          Value: Society for Learning Analytics Research (SoLAR)
+        - Start: "2023.07"
+          End: Present
+          Value: Japanese Society for Information and Systems in Education (JSiSE)
+        - Start: "2023.04"
+          End: "2024.07"
+          Value: Research Council of Evidence-Driven Education
+        - Start: "2020.06"
+          End: Present
+          Value: Japanese Society for Artificial Intelligence (JSAI)
+        - Start: "2017.09"
+          End: Present
+          Value: Asia-Pacific Society for Computers in Education (APSCE)
+        - Start: "2017.05"
+          End: "2022.05"
+          Value: Japan Society of Kansei Engineering (JSKE)
+    - Name: Academic Society
+      Items:
+        - Start: "2025.10"
+          End: Present
+          Value: Member of the Business Activities Committee, the Japanese Society for Learning Analytics
+        - Start: "2025.09"
+          End: Present
+          Value: Secretary of the Editorial Committee for the Special Issue "Frontiers in Learning Sciences and Learning Engineering", The Japanese Society for Artificial Intelligence
+        - Start: "2025.07"
+          End: Present #"2027.06"
+          Value: Secretary of Research Promotion Committee, the Japanese Society for Information and Systems in Education
+        - Start: "2025.04"
+          End: Present
+          Value: Secretary of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), The Japanese Society for Artificial Intelligence
+        - Start: "2025.03"
+          End: "2025.09"
+          Value: Program Committee of ICLEA 2025 (The 1st International Conference on Learning Evidence and Analytics)
+        - Start: "2024.12"
+          End: "2025.06"
+          Value: Member of Research Promotion Committee, the Japanese Society for Information and Systems in Education
+        - Start: "2024.06"
+          End: Present #"2026.06"
+          Value: Assistant Secretary of Organizing Committee, Technical Committee on Educational Technology (ET), Institute of Electronics, Information and Communication Engineers
+        - Start: "2024.01"
+          End: Present
+          Value: Member of Program Committee, Annual Conference Committee, the Japanese Society for Information and Systems in Education
+        - Start: "2023.10"
+          End: Present
+          Value: Parallel Session Organizer of HCII (International Conference on Human-Computer Interaction)
+        - Start: "2023.05"
+          End: "2024.03"
+          Value: LOC Logistics Chair of LAK24 (The 14th International Conference on Learning Analytics & Knowledge)
+        - Start: "2023.04"
+          End: "2025.03"
+          Value: Member of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), The Japanese Society for Artificial Intelligence
+        - Start: "2023.04"
+          End: "2024.07"
+          Value: Co-Chair of SIG1, Research Council of Evidence-Driven Education
+        - Start: "2023.04"
+          End: "2023.12"
+          Value: Local Organizing Committee of ICCE 2023 (31st International Conference on Computers in Education)
+        - Start: "2020.09"
+          End: "2021.08"
+          Value: Organizing Committee (Student Organized Session) of The 35th Annual Conference of the Japanese Society for Artificial Intelligence, 2021
+        - Start: "2019.09"
+          End: "2020.08"
+          Value: Organizing Committee (Student Organized Session) of The 34th Annual Conference of the Japanese Society for Artificial Intelligence, 2020
+    - Name: Review
+      Items:
+        - Start: 2024
+          Value: HCI International 2025 (27th International Conference on Human-Computer Interaction)
+        - Start: 2024
+          Value: 2 x Research and Practice in Technology Enhanced Learning (RPTEL)
+        - Start: 2023
+          Value: HCI International 2024 (26th International Conference on Human-Computer Interaction)
+        - Start: 2023
+          Value: Journal of Robotics and Mechatronics
+        - Start: 2022
+          Value: HCI International 2023 (25th International Conference on Human-Computer Interaction)
+        - Start: 2020
+          Value: HCI International 2021 (23rd International Conference on Human-Computer Interaction)
+    - Name: Community
+      Items:
+        - Start: "2024.10"
+          End: "2026.03"
+          Value: Program Committee of The 36th Young Researchers Association on Educational and Learning-Support Systems
+        - Start: "2024.04"
+          End: "2025.03"
+          Value: Program Committee of The 35th Young Researchers Association on Educational and Learning-Support Systems
+        - Start: "2023.05"
+          End: "2023.06"
+          Value: Local Staff of EDUsummIT 2023
+        - Start: "2022.04"
+          End: "2023.03"
+          Value: Organizer of The 33rd Young Researchers Association on Educational and Learning-Support Systems
+        - Start: "2018.12"
+          End: Present
+          Value: "Co-Founder & Executive Committee of [CALST (Co-study Group on Advanced Learning Science and Technology)](https://calst.org/)"
+        - Start: "2020.04"
+          End: "2021.03"
+          Value: Program Committee of The 31st Young Researchers Association on Educational and Learning-Support Systems
+        - Start: "2020.04"
+          End: "2021.03"
+          Value: Vice-president of Student Group "Shigaku no Kai", The Japan Society of Kansei Engineering
+        - Start: "2019.04"
+          End: "2020.03"
+          Value: President of Student Group "Shigaku no Kai", The Japan Society of Kansei Engineering
+        - Start: "2017.07"
+          End: "2019.03"
+          Value: Executive Committee of Student Group "Shigaku no Kai", The Japan Society of Kansei Engineering
+
+12SocialServices:
+  Style: TimespanList
+  Title: Social Services
+  Sections:
+    - Name: Practical Use of Educational System
+      Items:
+        - Start: 2025.02.19
+          End: 2025.02.21
+          Value: Error-based Simulation system,，千葉市立都賀中学校，1年生4クラス，各3時限
+        - Start: 2023.04.01
+          End: Present
+          Value: "Practical Operation and Infrastructure Management on the [LEAF Platform](https://eds.let.media.kyoto-u.ac.jp/leaf/en/)"
+        - Start: 2021.12.09
+          End: 2021.12.14
+          Value: Error-based Simulation system, 千葉市立さつきが丘中学校，3年生3クラス（約90名），各3時限
+        - Start: 2020.12.22
+          End: 2020.12.24
+          Value: Error-based Simulation system, 千葉市立さつきが丘中学校, 3年生3クラス（計67名）, 各2時限
+        - Start: "2016.09"
+          End:
+          Value: Error-based Simulation system, 千葉市立花園中学校, 3年生9クラス（約300名）, 各2時限
+
+13Grants:
+  Style: TimespanList
+  Title: Grants
+  Sections:
+    - Name: Research Grants
+      Items:
+        - Start: "2025.04"
+          End: "2028.03"
+          Value: "Intelligent Tutoring Systems for Fostering Subgoal Flexibility in Procedural Problem Solving, JSPS KAKENHI Grant-in-Aid for Early-Career Scientists (Project Number: 25K21362) (Principal Investigator)"
+    - Name: Scholarships
+      Items:
+        - Start: "2023.06"
+          Value: Repayment exemption for students with excellent grades in Japan Student Services Organization (JASSO) (Exemption of half of loan*2)
+        - Start: "2020.06"
+          Value: Repayment exemption for students with excellent grades in Japan Student Services Organization (JASSO) (Exemption of all of loan*1)
+        - Start: "2020.04"
+          End: "2023.03"
+          Value: Type 1 Scholarship (Interest-free) from Japan Student Services Organization (JASSO) (*2)
+        - Start: "2018.09"
+          Value: Alumni Association Scholarship (Benefit) from Faculty of Engineering Alumni Association, Tokyo Polytechnic University
+        - Start: "2018.04"
+          End: "2020.03"
+          Value: Type 1 Scholarship (Interest-free) from Japan Student Services Organization (JASSO) (*1)
+        - Start: "2014.04"
+          End: "2018.03"
+          Value: Type 1 Scholarship (Interest-free) from Japan Student Services Organization (JASSO)
