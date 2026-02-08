@@ -199,6 +199,9 @@
           Value: Japan Society of Kansei Engineering (JSKE)
     - Name: Academic Society
       Items:
+        - Start: "2026.02"
+          End: Present
+          Value: Program Comittee of AIED (International Conference on Artificial Intelligence in Education)
         - Start: "2025.10"
           End: Present
           Value: Member of the Business Activities Committee, the Japanese Society for Learning Analytics
@@ -213,7 +216,7 @@
           Value: Secretary of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), The Japanese Society for Artificial Intelligence
         - Start: "2025.03"
           End: "2025.09"
-          Value: Program Committee of ICLEA 2025 (The 1st International Conference on Learning Evidence and Analytics)
+          Value: Program Committee of ICLEA (International Conference on Learning Evidence and Analytics)
         - Start: "2024.12"
           End: "2025.06"
           Value: Member of Research Promotion Committee, the Japanese Society for Information and Systems in Education

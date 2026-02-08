@@ -199,6 +199,9 @@
           Value: 日本感性工学会 (JSKE)
     - Name: 学会
       Items:
+        - Start: "2026.02"
+          End: 現在
+          Value: Program Comittee of AIED (International Conference on Artificial Intelligence in Education)
         - Start: "2025.10"
           End: 現在
           Value: 学習分析学会 事業活動委員会 委員
@@ -212,8 +215,8 @@
           End: 現在
           Value: 人工知能学会 先進的学習科学と工学研究会（SIG-ALST） 運営委員会 幹事
         - Start: "2025.03"
-          End: "2025.09"
-          Value: Program Committee of ICLEA 2025 (The 1st International Conference on Learning Evidence and Analytics)
+          End: 現在
+          Value: Program Committee of ICLEA (International Conference on Learning Evidence and Analytics)
         - Start: "2024.12"
           End: "2025.06"
           Value: 教育システム情報学会 研究活性化委員会 委員
