@@ -252,6 +252,16 @@
           Value: 2020年度人工知能学会全国大会 実行委員（学生企画担当）
     - Name: 査読
       Items:
+        - Start: 2026
+          Value: ICLEA 2026 (2nd International Conference on Artificial Intelligence in Education) on APSCE TBICS Festival of Learning 2026
+        - Start: 2026
+          Value: AIED 2026 (27th International Conference on Artificial Intelligence in Education)
+        - Start: 2025
+          Value: HCI International 2026 (28th International Conference on Human-Computer Interaction)
+        - Start: 2025
+          Value: 教育システム情報学会誌
+        - Start: 2025
+          Value: ICLEA 2025 (1st International Conference on Learning Evidence and Analytics)
         - Start: 2024
           Value: HCI International 2025 (27th International Conference on Human-Computer Interaction)
         - Start: 2024
