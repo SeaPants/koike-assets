@@ -30,7 +30,7 @@
     - Name: Full-time
       Items:
         - Start: "2024.07"
-          End: "Present"
+          End: "2026.03"
           Value: "Assistant Professor, ([Akakura Lab.](https://akakura-lab.com)), Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science"
         - Start: "2024.04"
           End: "2024.06"
@@ -199,9 +199,12 @@
           Value: Japan Society of Kansei Engineering (JSKE)
     - Name: Academic Society
       Items:
+        - Start: "2026.04"
+          End: Present
+          Value: Chair of SIG on Cognitive Schema and Learning Activity Modeling (SIG-SLAM), the Japanese Society for Information and Systems in Education
         - Start: "2026.02"
           End: Present
-          Value: Program Comittee of AIED (International Conference on Artificial Intelligence in Education)
+          Value: Program Committee of AIED (International Conference on Artificial Intelligence in Education)
         - Start: "2025.10"
           End: Present
           Value: Member of the Business Activities Committee, the Japanese Society for Learning Analytics
@@ -263,12 +266,15 @@
           Value: HCI International 2021 (23rd International Conference on Human-Computer Interaction)
     - Name: Community
       Items:
+        - Start: "2025.10"
+          End: "2027.03"
+          Value: Management Director of The 37th Young Researchers Association on Educational and Learning-Support Systems
         - Start: "2024.10"
           End: "2026.03"
-          Value: Program Committee of The 36th Young Researchers Association on Educational and Learning-Support Systems
+          Value: Planning and Administration Director of The 36th Young Researchers Association on Educational and Learning-Support Systems
         - Start: "2024.04"
           End: "2025.03"
-          Value: Program Committee of The 35th Young Researchers Association on Educational and Learning-Support Systems
+          Value: Program Director of The 35th Young Researchers Association on Educational and Learning-Support Systems
         - Start: "2023.05"
           End: "2023.06"
           Value: Local Staff of EDUsummIT 2023

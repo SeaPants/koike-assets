@@ -199,6 +199,9 @@
           Value: 日本感性工学会 (JSKE)
     - Name: 学会
       Items:
+        - Start: "2026.04"
+          End: 現在
+          Value: 教育システム情報学会 SIG-認知スキーマ・学習活動モデリング（SIG-SLAM） 筆頭幹事
         - Start: "2026.02"
           End: 現在
           Value: Program Comittee of AIED (International Conference on Artificial Intelligence in Education)
@@ -263,6 +266,9 @@
           Value: HCI International 2021 (23rd International Conference on Human-Computer Interaction)
     - Name: コミュニティ
       Items:
+        - Start: "2025.10"
+          End: "2027.03"
+          Value: 第37回教育・学習支援システム若手の会 マネジメント幹事
         - Start: "2024.10"
           End: "2026.03"
           Value: 第36回教育・学習支援システム若手の会 企画・事務担当幹事
