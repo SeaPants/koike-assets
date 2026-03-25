@@ -2,6 +2,7 @@
   Style: PersonalData
   Title: 基本情報
   Name: 古池 謙人
+  Biography: "2018年東京工芸大学工学部卒業，2020年同大学院工学研究科博士前期課程修了，2023年同大学院工学研究科博士後期課程修了，博士（工学）．2022年，（株）manabo manabo事業部マネージャーを兼任．2023年より京都大学学術情報メディアセンター特定研究員を経て，2024年より東京理科大学工学部助教，現在に至る．千葉工業大学附属研究所共同研究員．知的学習支援システムや認知科学，知識工学の研究などに従事．"
   Information:
     - Name: 名前
       Value: 古池 謙人 (Kento Koike)
@@ -17,11 +18,13 @@
       Value: "1996-03-05"
 
 01Contacts:
-  Style: List
+  Style: EmailList
   Title: 連絡先
   Items:
-    - "kento [at] koike.app （学内業務・連絡以外の全て）"
-    - "k.koike [at] rs.tus.ac.jp （学内業務・連絡のみ）"
+    - Address: kento@koike.app
+      Description: "学内業務・連絡以外の全て"
+    - Address: k.koike@rs.tus.ac.jp
+      Description: "学内業務・連絡のみ"
 
 02Career:
   Style: TimespanList

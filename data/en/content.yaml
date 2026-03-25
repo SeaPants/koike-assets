@@ -2,6 +2,7 @@
   Style: PersonalData
   Title: Personal Data
   Name: Kento Koike
+  Biography: "Kento Koike received his B.Eng. in 2018, his M.Eng. in 2020, and his Ph.D. in Engineering in 2023 from Tokyo Polytechnic University. In 2022, he concurrently served as Manager of the manabo Division at manabo, Inc. From 2023, he was a Project Researcher at the Academic Center for Computing and Media Studies, Kyoto University. Since 2024, he has been an Assistant Professor at the Faculty of Engineering, Tokyo University of Science. He is also a Collaborative Researcher at the Research Liaison Centre, Chiba Institute of Technology. His research interests include intelligent tutoring systems, cognitive science, and knowledge engineering."
   Information:
     - Name: Name
       Value: Kento Koike
@@ -17,11 +18,13 @@
       Value: "1996-03-05"
 
 01Contacts:
-  Style: List
+  Style: EmailList
   Title: Contacts
   Items:
-    - "kento [at] koike.app (for anything except on-campus business/contact)"
-    - "k.koike [at] rs.tus.ac.jp (for on-campus business/contact only)"
+    - Address: kento@koike.app
+      Description: "for anything except on-campus business/contact"
+    - Address: k.koike@rs.tus.ac.jp
+      Description: "for on-campus business/contact only"
 
 02Career:
   Style: TimespanList
