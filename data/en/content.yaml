@@ -2,7 +2,7 @@
   Style: PersonalData
   Title: Personal Data
   Name: Kento Koike
-  Biography: "Kento Koike received his B.Eng. in 2018, his M.Eng. in 2020, and his Ph.D. in Engineering in 2023 from Tokyo Polytechnic University. In 2022, he concurrently served as Manager of the manabo Division at manabo, Inc. From 2023, he was a Project Researcher at the Academic Center for Computing and Media Studies, Kyoto University. Since 2024, he has been an Assistant Professor at the Faculty of Engineering, Tokyo University of Science. He is also a Collaborative Researcher at the Research Liaison Centre, Chiba Institute of Technology. His research interests include intelligent tutoring systems, cognitive science, and knowledge engineering."
+  Biography: "Kento Koike received his B.Eng. in 2018, his M.Eng. in 2020, and his Ph.D. in Engineering in 2023 from Tokyo Polytechnic University. In 2022, he concurrently served as Manager of the manabo Division at manabo, Inc. From 2023, he was a Project Researcher at the Academic Center for Computing and Media Studies, Kyoto University. From 2024, he was an Assistant Professor at the Faculty of Engineering, Tokyo University of Science. Since 2026, he has been an Assistant Professor at the Faculty of Engineering, Kanagawa University. He is also a Collaborative Researcher at the Research Liaison Centre, Chiba Institute of Technology. His research interests include intelligent tutoring systems, cognitive science, and knowledge engineering."
   Information:
     - Name: Name
       Value: Kento Koike
@@ -10,7 +10,7 @@
       Value: Ph.D. in Engineering
     - Name: Affiliations
       Items:
-        - Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
+        - Department of Electrical, Electronic and Information Engineering, Faculty of Engineering, Kanagawa University
         - Research Liaison Centre, Chiba Institute of Technology
     - Name: Researchmap
       Value: "[Kento Koike](https://researchmap.jp/k_k01ke?lang=en)"
@@ -32,6 +32,9 @@
   Sections:
     - Name: Full-time
       Items:
+        - Start: "2026.04"
+          End: Present
+          Value: "Assistant Professor, Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University"
         - Start: "2024.07"
           End: "2026.03"
           Value: "Assistant Professor, ([Akakura Lab.](https://akakura-lab.com)), Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science"
@@ -128,6 +131,15 @@
           Value: TA, "Statistics" at Faculty of Engineering, Tokyo Polytechnic University
     - Name: Programming
       Items:
+        - Start: "2026.09"
+          End: "Present"
+          Value: Lecturer, "Programming Language I" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
+        - Start: "2026.04"
+          End: "Present"
+          Value: Lecturer, "Programming Language II" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
+        - Start: "2026.04"
+          End: "Present"
+          Value: Lecturer, "Algorithms and Data Structures" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
         - Start: "2019.04"
           End: "2022.03"
           Value: TA, "Java Programming" at Faculty of Engineering, Tokyo Polytechnic University
@@ -150,6 +162,24 @@
           Value: SA, "Information Processing Seminar B" at Faculty of Arts, Tokyo Polytechnic University
     - Name: Others
       Items:
+        - Start: "2026.04"
+          End: "Present"
+          Value: Co-lecturer, "Introduction to Electrical, Electronics and Information Engineering" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
+        - Start: "2026.04"
+          End: "Present"
+          Value: Co-lecturer, "Electrical, Electronics and Information Engineering Experiments III" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
+        - Start: "2026.09"
+          End: "Present"
+          Value: Co-lecturer, "Electrical, Electronics and Information Engineering Experiments IV" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
+        - Start: "2026.09"
+          End: "Present"
+          Value: Co-lecturer, "Electrical, Electronics and Information Engineering Experiments V" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
+        - Start: "2026.09"
+          End: "Present"
+          Value: Co-lecturer, "Special Topics on Electric, Electronics and Informatics" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
+        - Start: "2026.09"
+          End: "Present"
+          Value: Lecturer, "Seminar I" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
         - Start: "2024.10"
           End: "2026.03"
           Value: Co-lecturer, "Social Design" at Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science
