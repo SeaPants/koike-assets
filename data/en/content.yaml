@@ -234,6 +234,9 @@
           Value: Japan Society of Kansei Engineering (JSKE)
     - Name: Academic Society
       Items:
+        - Start: "2026.05"
+          End: Present
+          Value: Member of Organizing Committee, Technical Committee on Educational Technology (ET), Institute of Electronics, Information and Communication Engineers
         - Start: "2026.04"
           End: Present
           Value: Chief Secretary of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), The Japanese Society for Artificial Intelligence
@@ -262,7 +265,7 @@
           End: "2025.06"
           Value: Member of Research Promotion Committee, the Japanese Society for Information and Systems in Education
         - Start: "2024.06"
-          End: Present #"2026.06"
+          End: "2026.05"
           Value: Assistant Secretary of Organizing Committee, Technical Committee on Educational Technology (ET), Institute of Electronics, Information and Communication Engineers
         - Start: "2024.01"
           End: "2026.02"
