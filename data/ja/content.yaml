@@ -211,6 +211,9 @@
   Sections:
     - Name: 会員
       Items:
+        - Start: "2026.05"
+          End: 現在
+          Value: 学習分析学会 (JASLA)
         - Start: "2024.10"
           End: 現在
           Value: 電子情報通信学会 (IEICE)
