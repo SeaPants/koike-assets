@@ -238,6 +238,9 @@
     - Name: Academic Society
       Items:
         - Start: "2026.06"
+          End: Present
+          Value: Member of the Board of Directors, Japanese Society for Learning Analytics (JASLA)
+        - Start: "2026.06"
           End: Present #委嘱to "2028.06.07"
           Value: Member of Organizing Committee, Technical Committee on Educational Technology (ET), Institute of Electronics, Information and Communication Engineers
         - Start: "2026.04"
