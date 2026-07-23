@@ -300,6 +300,8 @@
     - Name: Review
       Items:
         - Start: 2026
+          Value: Transactions of Human Interface Society
+        - Start: 2026
           Value: ICLEA 2026 (2nd International Conference on Artificial Intelligence in Education) on APSCE TBICS Festival of Learning 2026
         - Start: 2026
           Value: AIED 2026 (27th International Conference on Artificial Intelligence in Education)
