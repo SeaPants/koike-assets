@@ -61,6 +61,10 @@ EmphasizeName:
       Title: Refereed Conference Papers
       DetailCount: True
       Items:
+        - "Koike, K., Tomoto, T., & Akakura, T. (2026). ELMER: A Taxonomy-Based Framework for Designing Observable Error Feedback to Support Exploratory Learning of Unobservable Concepts in STEAM Education. HCI International 2026, 16706 LNCS, 80–99."
+        - "Maeda, S., Koike, K., & Tomoto, T. (2026). Encouraging Higher-Quality Code Through Cost and Productivity-Based Ranking in Visual Programming. HCI International 2026, 16706 LNCS, 117–132."
+        - "Pierret Robles, J. P., Aikawa, N., Koike, K., & Tomoto, T. (2026). Hypothesis Verification Map for Supporting Active Error Exploration in Error-based Simulation. HCI International 2026, 16706 LNCS, 146–157."
+        - "Teraoka, S., Koike, K., & Akakura, T. (2026). Enhancing Learner Reflection in Essay Writing: An Adaptive Feedback System Integrating AES-Based Visualization and LLM Explanations. HCI International 2026, 16706 LNCS, 174–187."
         - "Koike, K., Aburatani, T., Ashida, A., Morita, K., & Kunori, K. (2026). Are Cognitive Schemas Taught to Learners the Same Across Two Different Educational Systems? A Computational Approach. HCI International 2025 – Late Breaking Papers, 16333 LNCS, 373–390."
         - "Maeda, S., Koike, K., & Tomoto, T. (2025). Learning from Others’ Codes in Game-Based Robot Programming: Behavioral Patterns and Outcomes. Proceedings of the International Conference on Computers in Education ICCE 2025, 470–475."
         - "Koike, K., Majumdar, R., Tomoto, T., Horiguchi, T., & Hirashima, T. (2025). Students’ Help-seeking Patterns in Subgoal Learning Environments for Programming. Proceedings of the International Conference on Learning Evidence and Analytics, 1–3."
