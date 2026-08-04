@@ -2,7 +2,7 @@
   Style: PersonalData
   Title: Personal Data
   Name: Kento Koike
-  Biography: "Kento Koike received his B.Eng. in 2018, his M.Eng. in 2020, and his Ph.D. in Engineering in 2023 from Tokyo Polytechnic University. In 2022, he concurrently served as Manager of the manabo Division at manabo, Inc. From 2023, he was a Project Researcher at the Academic Center for Computing and Media Studies, Kyoto University. From 2024, he was an Assistant Professor at the Faculty of Engineering, Tokyo University of Science. Since 2026, he has been an Assistant Professor at the Faculty of Engineering, Kanagawa University. He is also a Collaborative Researcher at the Research Liaison Centre, Chiba Institute of Technology. His research interests include intelligent tutoring systems, cognitive science, and knowledge engineering."
+  Biography: "Kento Koike received his B.Eng. in 2018, his M.Eng. in 2020, and his Ph.D. in Engineering in 2023 from Tokyo Polytechnic University. In 2022, he concurrently served as Manager of the manabo Operations Department at manabo, Inc. From 2023, he was a Program-specific Researcher at the Academic Center for Computing and Media Studies, Kyoto University. From 2024, he was an Assistant Professor at the Faculty of Engineering, Tokyo University of Science. Since 2026, he has been an Assistant Professor at the Faculty of Engineering, Kanagawa University. He is also a Collaborative Researcher at the Research Liaison Centre, Chiba Institute of Technology. His research interests include intelligent tutoring systems, cognitive science, and knowledge engineering."
   Information:
     - Name: Name
       Value: Kento Koike
@@ -10,9 +10,9 @@
       Value: Ph.D. in Engineering
     - Name: Affiliations
       Items:
-        - Department of Electrical, Electronic and Information Engineering, Faculty of Engineering, Kanagawa University
+        - Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
         - Research Liaison Centre, Chiba Institute of Technology
-    - Name: Laboratory
+    - Name: Laboratory (PI)
       Value: "[Problem-Solving Intelligence Lab (PSI Lab)](https://koike-lab.org/)"
     - Name: Researchmap
       Value: "[Kento Koike](https://researchmap.jp/k_k01ke?lang=en)"
@@ -39,7 +39,7 @@
           Value: "Assistant Professor, Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University"
         - Start: "2024.07"
           End: "2026.03"
-          Value: "Assistant Professor, ([Akakura Lab.](https://akakura-lab.com)), Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science"
+          Value: "Assistant Professor ([Akakura Lab.](https://akakura-lab.com)), Department of Information and Computer Technology, Faculty of Engineering, Tokyo University of Science"
         - Start: "2024.04"
           End: "2024.06"
           Value: Freelance R&D Consultant mainly for manabo, Inc.
@@ -53,7 +53,7 @@
       Items:
         - Start: "2024.04"
           End: "Present"
-          Value: "Collaborative Researcher ([Tomoto Lab.](https://takahito.com)), Research Liaison Centre, Chiba Institute of Technology"
+          Value: "Collaborative Researcher ([Tomoto Lab.](https://takahito.com/)), Research Liaison Centre, Chiba Institute of Technology"
         - Start: "2022.04"
           End: "2023.03"
           Value: Part-time Assistant Professor at Integrated Education Center, Meikai University
@@ -68,7 +68,7 @@
           Value: Teaching Assistant at Tokyo Polytechnic University
         - Start: "2015.08"
           End: "2016.09"
-          Value: Lecturer at the Programming School
+          Value: Lecturer at the Programming School for Elementary and Junior High School Students
 
 03Education:
   Style: Education
@@ -87,7 +87,7 @@
       EndDate: "2020.03"
       Qualification: Master of Engineering
     - Name: Tokyo Polytechnic University
-      Organisation: Faculty of Engineering
+      Organisation: Department of Applied Computer Science, Faculty of Engineering
       Website: "https://www.t-kougei.ac.jp/en/"
       StartDate: "2014.04"
       EndDate: "2018.03"
@@ -97,7 +97,7 @@
   Style: TimespanList
   Title: Teaching Experiences
   Sections:
-    - Name: Educational Systems
+    - Name: Educational and Learning-Support Systems
       Items:
         - Start: "2025.04"
           End: "2025.09"
@@ -150,7 +150,7 @@
           Value: TA, "Object-oriented Programming" at Faculty of Engineering, Tokyo Polytechnic University
         - Start: "2015.08"
           End: "2016.09"
-          Value: Lecturer and Classroom Management at the Programming School
+          Value: Lecturer and Classroom Management at the Programming School for Elementary and Junior High School Students
     - Name: Introductory Computer Science
       Items:
         - Start: "2019.04"
@@ -178,7 +178,7 @@
           Value: Co-lecturer, "Electrical, Electronics and Information Engineering Experiments V" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
         - Start: "2026.09"
           End: "Present"
-          Value: Co-lecturer, "Special Topics on Electric, Electronics and Informatics" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
+          Value: Co-lecturer, "Special Topics on Electrical, Electronics and Information Engineering" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
         - Start: "2026.09"
           End: "Present"
           Value: Lecturer, "Seminar I" at Department of Electrical, Electronics and Information Engineering, Faculty of Engineering, Kanagawa University
@@ -245,7 +245,7 @@
           Value: Member of the Board of Directors, Japanese Society for Learning Analytics (JASLA)
         - Start: "2026.04"
           End: Present
-          Value: Chief Secretary of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), The Japanese Society for Artificial Intelligence
+          Value: Chief Secretary of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), the Japanese Society for Artificial Intelligence
         - Start: "2026.04"
           End: Present
           Value: Chair of SIG on Cognitive Schema and Learning Activity Modeling (SIG-SLAM), the Japanese Society for Information and Systems in Education
@@ -257,15 +257,15 @@
           Value: Member of the Business Activities Committee, the Japanese Society for Learning Analytics
         - Start: "2025.09"
           End: Present
-          Value: Secretary of the Editorial Committee for the Special Issue "Frontiers in Learning Sciences and Learning Engineering", The Japanese Society for Artificial Intelligence
+          Value: Secretary of the Editorial Committee for the Special Issue "Frontiers in Learning Sciences and Learning Engineering", the Japanese Society for Artificial Intelligence
         - Start: "2025.07"
           End: Present #"2027.06"
           Value: Secretary of Research Promotion Committee, the Japanese Society for Information and Systems in Education
         - Start: "2025.04"
           End: Present
-          Value: Secretary of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), The Japanese Society for Artificial Intelligence
+          Value: Secretary of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), the Japanese Society for Artificial Intelligence
         - Start: "2025.03"
-          End: "2025.09"
+          End: Present
           Value: Program Committee of ICLEA (International Conference on Learning Evidence and Analytics)
         - Start: "2024.12"
           End: "2025.06"
@@ -284,10 +284,10 @@
           Value: LOC Logistics Chair of LAK24 (The 14th International Conference on Learning Analytics & Knowledge)
         - Start: "2023.04"
           End: "2025.03"
-          Value: Member of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), The Japanese Society for Artificial Intelligence
+          Value: Member of Organizing Committee, SIG on Advanced Learning Science and Technology (SIG-ALST), the Japanese Society for Artificial Intelligence
         - Start: "2023.04"
           End: "2024.07"
-          Value: Co-Chair of SIG1, Research Council of Evidence-Driven Education
+          Value: Co-Chair of SIG1 (Infrastructure Systems for Educational Data Utilization and Educational Data Standardization), Research Council of Evidence-Driven Education
         - Start: "2023.04"
           End: "2023.12"
           Value: Local Organizing Committee of ICCE 2023 (31st International Conference on Computers in Education)
@@ -302,7 +302,7 @@
         - Start: 2026
           Value: Transactions of Human Interface Society
         - Start: 2026
-          Value: ICLEA 2026 (2nd International Conference on Artificial Intelligence in Education) on APSCE TBICS Festival of Learning 2026
+          Value: ICLEA 2026 (2nd International Conference on Learning Evidence and Analytics) on APSCE TBICS Festival of Learning 2026
         - Start: 2026
           Value: AIED 2026 (27th International Conference on Artificial Intelligence in Education)
         - Start: 2025
@@ -339,13 +339,13 @@
           Value: Local Staff of EDUsummIT 2023
         - Start: "2022.04"
           End: "2023.03"
-          Value: Organizer of The 33rd Young Researchers Association on Educational and Learning-Support Systems
+          Value: Director of The 33rd Young Researchers Association on Educational and Learning-Support Systems
         - Start: "2018.12"
           End: Present
           Value: "Co-Founder & Executive Committee of [CALST (Co-study Group on Advanced Learning Science and Technology)](https://calst.org/)"
         - Start: "2020.04"
           End: "2021.03"
-          Value: Program Committee of The 31st Young Researchers Association on Educational and Learning-Support Systems
+          Value: Program Director of The 31st Young Researchers Association on Educational and Learning-Support Systems
         - Start: "2020.04"
           End: "2021.03"
           Value: Vice-president of Student Group "Shigaku no Kai", The Japan Society of Kansei Engineering
@@ -360,29 +360,29 @@
   Style: TimespanList
   Title: Social Services
   Sections:
-    - Name: Practical Use of Educational System
+    - Name: Practical Use of Educational and Learning-Support Systems
       Items:
         - Start: 2025.02.19
           End: 2025.02.21
-          Value: Error-based Simulation system,，千葉市立都賀中学校，1年生4クラス，各3時限
+          Value: Error-based Simulation system, Tsuga Junior High School, Chiba City, 4 classes of 1st-year students, 3 periods each
         - Start: 2023.04.01
-          End: Present
+          End: 2024.03.31
           Value: "Practical Operation and Infrastructure Management on the [LEAF Platform](https://eds.let.media.kyoto-u.ac.jp/leaf/en/)"
         - Start: 2021.12.09
           End: 2021.12.14
-          Value: Error-based Simulation system, 千葉市立さつきが丘中学校，3年生3クラス（約90名），各3時限
+          Value: Error-based Simulation system, Satsukigaoka Junior High School, Chiba City, 3 classes of 3rd-year students (approx. 90 students), 3 periods each
         - Start: 2020.12.22
           End: 2020.12.24
-          Value: Error-based Simulation system, 千葉市立さつきが丘中学校, 3年生3クラス（計67名）, 各2時限
+          Value: Error-based Simulation system, Satsukigaoka Junior High School, Chiba City, 3 classes of 3rd-year students (67 students in total), 2 periods each
         - Start: "2016.09"
           End:
-          Value: Error-based Simulation system, 千葉市立花園中学校, 3年生9クラス（約300名）, 各2時限
+          Value: Error-based Simulation system, Hanazono Junior High School, Chiba City, 9 classes of 3rd-year students (approx. 300 students), 2 periods each
 
 13Grants:
   Style: TimespanList
   Title: Grants
   Sections:
-    - Name: Research Grants
+    - Name: External Research Grants
       Items:
         - Start: "2025.04"
           End: "2028.03"

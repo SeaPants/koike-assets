@@ -287,7 +287,7 @@
           Value: 人工知能学会 先進的学習科学と工学研究会（SIG-ALST） 運営委員会 専門委員
         - Start: "2023.04"
           End: "2024.07"
-          Value: エビデンス駆動型教育研究協議会 SIG1（教育データ利活用のための基盤システムのあり方、教育データ標準化） 共同主査
+          Value: エビデンス駆動型教育研究協議会 SIG1（教育データ利活用のための基盤システムのあり方，教育データ標準化） 共同主査
         - Start: "2023.04"
           End: "2023.12"
           Value: Local Organizing Committee of ICCE 2023 (31st International Conference on Computers in Education)
@@ -302,7 +302,7 @@
         - Start: 2026
           Value: ヒューマンインタフェース学会論文誌
         - Start: 2026
-          Value: ICLEA 2026 (2nd International Conference on Artificial Intelligence in Education) on APSCE TBICS Festival of Learning 2026
+          Value: ICLEA 2026 (2nd International Conference on Learning Evidence and Analytics) on APSCE TBICS Festival of Learning 2026
         - Start: 2026
           Value: AIED 2026 (27th International Conference on Artificial Intelligence in Education)
         - Start: 2025
@@ -386,7 +386,7 @@
       Items:
         - Start: "2025.04"
           End: "2028.03"
-          Value: "手続き的問題解決におけるサブゴール柔軟性の獲得を指向した学習支援システム, JSPS科研費 若手研究 （課題番号: 25K21362）（研究代表者）"
+          Value: "手続き的問題解決におけるサブゴール柔軟性の獲得を指向した学習支援システム，JSPS科研費 若手研究（課題番号: 25K21362）（研究代表者）"
     - Name: 奨学金
       Items:
         - Start: "2023.06"
