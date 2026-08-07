@@ -112,7 +112,8 @@ EmphasizeName:
       NameEn: Preprints
       Title: Preprints
       DetailCount: True
-      Items: []
+      Items:
+        - 'Mizoguchi, R., Aburatani, T., Koike, K., & Shimmei, M. (2026). Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI- (arXiv:2608.05545). arXiv. <a href="https://doi.org/10.48550/arXiv.2608.05545">(link)</a>'
 
     - NameJa: 寄稿
       NameEn: Contributions
