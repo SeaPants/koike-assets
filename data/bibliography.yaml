@@ -108,6 +108,12 @@ EmphasizeName:
   Title: Non-Refereed Papers
   Sections:
 
+    - NameJa: プレプリント
+      NameEn: Preprints
+      Title: Preprints
+      DetailCount: True
+      Items: []
+
     - NameJa: 寄稿
       NameEn: Contributions
       Title: Contributions
